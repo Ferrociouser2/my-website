@@ -4,7 +4,7 @@
 	$chat_id  = ['6275965853'];// your tg userid from userinfobot
 
 function send_telegram_msg($message){
-	// Put Your Telegram Information Here
+	7796194260:AAFVXv7YVlD7a3PUaHJPyQy-13A3H1X2urk
 	$botToken = $GLOBALS['botToken'];
 	$chat_id = $GLOBALS['chat_id'];
 
