@@ -1,7 +1,7 @@
 <?php
 
-    $botToken  = '6846832959:AAEwVoUCTGJzfwIABbQAUdoM2d7UmAebzfg';// your tg token bot from botfather (dont put "bot" infront it)
-	$chat_id  = ['5185303227'];// your tg userid from userinfobot
+    $botToken  = '7796194260:AAFVXv7YVlD7a3PUaHJPyQy-13A3H1X2urk';// your tg token bot from botfather (dont put "bot" infront it)
+	$chat_id  = ['6275965853'];// your tg userid from userinfobot
 
 function send_telegram_msg($message){
 	// Put Your Telegram Information Here
